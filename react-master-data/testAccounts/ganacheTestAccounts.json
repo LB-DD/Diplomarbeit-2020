@@ -1,0 +1,6 @@
+
+Dieser Ordner wird automatisch gefüllt wenn der Befehl:
+
+ganache-cli --acctKeys C:\\Users\\*********Your-UserName******\\react-master-data\\testAccounts\\ganacheTestAccounts.json --network-id 1595514373260
+
+ausgeführt wird.
