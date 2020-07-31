@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "name": "User1",
+      "password": "User1111",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User2",
+      "password": "User2222",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User3",
+      "password": "User3333",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User4",
+      "password": "User4444",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User5",
+      "password": "User5555",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User6",
+      "password": "User6666",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User7",
+      "password": "User7777",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User8",
+      "password": "User8888",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User9",
+      "password": "User9999",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    },
+    {
+      "name": "User10",
+      "password": "User10101010",
+      "memonic": "",
+      "accountID": "",
+      "evanNetworkID": "",
+      "privateKey": "",
+      "currentNonce": -1
+    }
+  ]
+}
